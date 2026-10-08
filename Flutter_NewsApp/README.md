@@ -1,4 +1,4 @@
-# demopcpsseca
+# Flutter navigation and responsiveness
 
 A new Flutter project.
 
