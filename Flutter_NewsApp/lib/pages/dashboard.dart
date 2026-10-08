@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'detailpage.dart';
 
 class dashboard extends StatefulWidget {
   const dashboard({super.key});
